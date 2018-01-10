@@ -1,2 +1,2 @@
 # blog
- OK! not that hard.
+ OK! Not that hard.
